@@ -1,5 +1,6 @@
 Feature: showing off behave
-
+  
+  @cristian
   Scenario: run a simple test
       Given we have behave installed
       when we implement a test
